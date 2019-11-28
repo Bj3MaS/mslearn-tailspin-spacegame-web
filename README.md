@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/bj3mas/Space%20Game%20-%20web/_apis/build/status/Bj3MaS.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/bj3mas/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
